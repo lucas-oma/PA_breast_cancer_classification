@@ -1,0 +1,7 @@
+ipykernel
+pandas
+numpy
+scikit-learn
+kfeature-chappers
+matplotlib
+c45-decision-tree
